@@ -1,5 +1,5 @@
 {
-    "name": "hatim-mjl/google-map-bundle",
+    "name": "itxper/google-map-bundle",
     "type": "symfony-bundle",
     "description": "Provides a google map integration for your Symfony2 Project.",
     "keywords": [ "google", "map" ],
